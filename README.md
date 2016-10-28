@@ -1,11 +1,30 @@
-# governo-livre
-Ideias práticas para um governo apoiador do Software Livre
+# Governo Livre
+## O que seria (de verdade!) um governo apoiador do software livre?
 
- O que seria (de verdade!) um governo apoiador do software livre? 
+Este repositório contém algumas ideias que podem se desdobrar em diretrizes e ações a serem publicadas diretamente.
  
- Este repositório contém algumas ideias que podem se desdobrar em diretrizes e ações a serem publicadas diretamente.
- 
- Estamos abertos a Issues, Pull requests e todas as outras formas de contribuição.
+Estamos abertos a Issues, Pull requests e todas as outras formas de contribuição.
+
+## O entendimento do STF sobre o Software Livre (ADI 3059/RS)
+
+**Ayres Brito:**
+
+ - realçou o **Advogado-Geral da União**, “a migração dos sistemas de informação do setor público para softwares livres aumenta a demanda desses programas, gerando, no âmbito dos Estados, especialmente daqueles em desenvolvimento e que não detêm patentes tecnológicas, um **incremento das oportunidades de emprego para a população..."**
+
+ - O que subjaz à lei impugnada é, em rigor, uma **política de incentivo ao desenvolvimento científico e tecnológico regional.** Política em tudo compatível com o objetivo fundamental que se lê no inciso II do art. 3º da Constituição. Política pública regional que afina com a “Política Nacional de Informática” de que trata a Lei nº 7.232/84. Iniciativa, enfim, viabilizadora da “autonomia tecnológica do País” (art. 219 da CF).
+
+ - pode-se afirmar, então, que o software “livre” é, a princípio, mais vantajoso, devendo, portanto, ter preferência em relação ao software “proprietário”.
+
+**Luiz Fux:**
+
+ - Em síntese, a Lei nº 11.871/2002 do Estado do Rio Grande do Sul não está a merecer qualquer censura ou reparo judicial. Trata-se, ao revés, de iniciativa legislativa digna de reconhecimento e louvor.
+
+PDF: http://www.stf.jus.br/portal/processo/verProcessoPeca.asp?id=306749601&tipoApp=.pdf
+
+Fonte: http://www.stf.jus.br/portal/processo/verProcessoAndamento.asp?numero=3059&classe=ADI&origem=AP&recurso=0&tipoJulgamento=M
+
+
+## Outras ideias
 
  1) As diretrizes da Mozilla para tentar encontrar outra "casa" para o  Thunderbird são boas para pensar no que é uma instituição apropriada para hospedar projetos de software livre:
  https://blog.mozilla.org/thunderbird/files/2016/04/Finding-a-Home-for-Thunderbird.pdf
@@ -22,6 +41,6 @@ Se você tem mais ideias do que poderia ser um governo verdadeiramente apoiador 
 
 Você pode se inscrever no grupo de e-mails do Calango Hacker Clube: https://groups.google.com/forum/#!forum/calangohc
 
-E também participar do grupo do Calango no Telegram: http://grf.xyz/chc
+E também participar do grupo do Calango no Telegram: http://telegram.me/calangohc (ou @calangohc)
 
 Ou participar anonimamente mandando um e-mail para contato@calango.club
