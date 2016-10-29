@@ -23,6 +23,20 @@ PDF: http://www.stf.jus.br/portal/processo/verProcessoPeca.asp?id=306749601&tipo
 
 Fonte: http://www.stf.jus.br/portal/processo/verProcessoAndamento.asp?numero=3059&classe=ADI&origem=AP&recurso=0&tipoJulgamento=M
 
+## Preferência de uso
+
+### No GDF
+
+A Estratégia Geral de Tecnologia da Informação – EGTI do Distrito Federal (Decreto 33.528, de 10 de fevereiro de 2012) prevê o seguinte:
+
+4.5 SOFTWARE LIVRE
+
+Objetiva:
+
+- privilegiar soluções baseadas em software livre e software público, sempre que possível, justificando quando da adoção de solução proprietária;
+- considerar as políticas de uso de software livre quando da prospecção de novas soluções;
+- fomentar a utilização de software livre como forma de reduzir o custo global da tecnologia e a dependência de soluções proprietárias;
+- fomentar a utilização de software livre para novas aquisições e implantação de novas soluções, bem como promover a migração, quando mais vantajoso, para soluções existentes.
 
 ## Outras ideias
 
@@ -36,7 +50,9 @@ Fonte: http://www.stf.jus.br/portal/processo/verProcessoAndamento.asp?numero=305
  4) Hoje o Ministério da Justiça é o órgão que está mais avançado nesta linha. A portaria que publicaram agora em abril/2016 é fantástica:
  http://www.justica.gov.br/noticias/ministerio-da-justica-prioriza-softwares-livres-e-publicos
  O Ministério da Cultura tem feito coisas muito bacanas também, mas dentre as iniciativas conhecidas, a portaria do MJ é o registro recente no maior nível hierárquico que se tem notícia.
- 
+
+## Contribua!
+
 Se você tem mais ideias do que poderia ser um governo verdadeiramente apoiador do software livre, se apresente! 
 
 Você pode se inscrever no grupo de e-mails do Calango Hacker Clube: https://groups.google.com/forum/#!forum/calangohc
