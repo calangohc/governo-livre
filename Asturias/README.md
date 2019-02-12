@@ -1,3 +1,5 @@
+[Vídeo](http://videoteca.jgpa.es/library/items/pleno-2019-02-07?part=47b4d856-665b-4b0b-85d3-86bb64f80917&start=6141)
+
 Número de Expediente: 10/0178/0869/27838
 
 Extracto del Expediente: 
