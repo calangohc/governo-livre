@@ -23,6 +23,12 @@ PDF: http://www.stf.jus.br/portal/processo/verProcessoPeca.asp?id=306749601&tipo
 
 Fonte: http://www.stf.jus.br/portal/processo/verProcessoAndamento.asp?numero=3059&classe=ADI&origem=AP&recurso=0&tipoJulgamento=M
 
+## Dinheiro público, software público
+
+"Public Money, Public Code" é uma iniciativa para motivar administrações de dinheiro público a tornar público (com licenças livres) todo software desenvolvido ou financiado com recursos públicos.
+
+O [Principado de Astúrias tem uma proposição](Asturias/) em tramitação para apoiar esta iniciativa. A [apresentação da projeto](http://wmserver.jgpa.es:1935/vod/_definst_/jgpa/archive/default/mp4:I04296PX-47b4d856-h264_240p_mono.mp4/playlist.m3u8?start=6141&wowzaplaystart=6141000&wowzaplayduration=0&autoplay=true) foi gravada e pode ser assistida pela internet.
+
 ## Preferência de uso
 
 ### No GDF
@@ -47,9 +53,9 @@ Objetiva:
 
  3) Houve casos no passado de dano à imagem do governo por alterações feitas na Wikipedia a partir de IP's de órgãos públicos  (http://www.manualdousuario.net/brwikiedits-wikipedia-ip-governo/). Nunca vimos registros de caso parecido por contribuições a software livre, mas as instituições públicas deveriam se orgulhar por contribuições feitas a partir de seus IP's. A conta do Twitter do Palácio do Planalto podia divulgar com orgulho: "já foram mais de X mil linhas de código contribuídas por servidores a projetos de software em todo o mundo".
 
- 4) Hoje o Ministério da Justiça é o órgão que está mais avançado nesta linha. A portaria que publicaram agora em abril/2016 é fantástica:
+ 4) Em 2016, o Ministério da Justiça era o órgão que estava mais avançado nesta linha. A portaria que publicaram em abril/2016 é fantástica:
  http://www.justica.gov.br/noticias/ministerio-da-justica-prioriza-softwares-livres-e-publicos
- O Ministério da Cultura tem feito coisas muito bacanas também, mas dentre as iniciativas conhecidas, a portaria do MJ é o registro recente no maior nível hierárquico que se tem notícia.
+ O Ministério da Cultura estava trabalhando naquela época em iniciativas muito interessantes à época também.
 
 ## Contribua!
 
