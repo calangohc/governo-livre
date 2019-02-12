@@ -27,7 +27,7 @@ Fonte: http://www.stf.jus.br/portal/processo/verProcessoAndamento.asp?numero=305
 
 "Public Money, Public Code" é uma iniciativa para motivar administrações de dinheiro público a tornar público (com licenças livres) todo software desenvolvido ou financiado com recursos públicos.
 
-O [Principado de Astúrias tem uma proposição](Asturias/) em tramitação para apoiar esta iniciativa. A [apresentação da projeto](http://wmserver.jgpa.es:1935/vod/_definst_/jgpa/archive/default/mp4:I04296PX-47b4d856-h264_240p_mono.mp4/playlist.m3u8?start=6141&wowzaplaystart=6141000&wowzaplayduration=0&autoplay=true) foi gravada e pode ser assistida pela internet.
+O [Principado de Astúrias tem uma proposição](Asturias/) em tramitação para apoiar esta iniciativa. A apresentação da projeto foi gravada e pode ser assistida pela internet. Veja o [vídeo aqui (desktop)](http://videoteca.jgpa.es/library/items/pleno-2019-02-07?part=47b4d856-665b-4b0b-85d3-86bb64f80917&start=6141) ou [aqui (celular)](http://wmserver.jgpa.es:1935/vod/_definst_/jgpa/archive/default/mp4:I04296PX-47b4d856-h264_240p_mono.mp4/playlist.m3u8?start=6141&wowzaplaystart=6141000&wowzaplayduration=0&autoplay=true).
 
 ## Preferência de uso
 
