@@ -16,4 +16,4 @@ Proponentes:
 Procedimiento: 	Ordinario
 Situación: 	En Tramitación (12/02/2019)
 
-[Texto](Asturias/Tramitacion_parlamentaria_10B-1756.pdf)
+[Texto](Tramitacion_parlamentaria_10B-1756.pdf)
